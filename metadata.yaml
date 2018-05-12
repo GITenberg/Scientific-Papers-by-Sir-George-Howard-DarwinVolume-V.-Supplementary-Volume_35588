@@ -1,0 +1,46 @@
+_repo: Scientific-Papers-by-Sir-George-Howard-DarwinVolume-V.-Supplementary-Volume_35588
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+  - agent_name: Brown, Ernest W. (Ernest William)
+    aliases:
+    - Brown, E. W. (Ernest William)
+    - Brown, Ernest William
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '43540'
+    url: http://www.gutenberg.org/2009/agents/43540
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, George Howard, Sir
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '39625'
+    url: http://www.gutenberg.org/2009/agents/39625
+    wikipedia: http://en.wikipedia.org/wiki/George_Darwin
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2011-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcsh 'Celestial mechanics'
+- !lcc 'QB'
+title: Scientific Papers by Sir George Howard Darwin. Volume V. Supplementary Volume
+url: http://www.gutenberg.org/ebooks/35588
