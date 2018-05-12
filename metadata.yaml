@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39625
     wikipedia: http://en.wikipedia.org/wiki/George_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35588#Scientific-Papers-by-Sir-George-Howard-DarwinVolume-V.-Supplementary-Volume
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2011-03-16'
 gutenberg_type: Text
